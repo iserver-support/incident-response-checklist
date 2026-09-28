@@ -17,3 +17,6 @@ A lightweight, read-only Bash checklist for initial Linux server incident invest
 ```bash
 chmod +x incident-response-checklist.sh
 ./incident-response-checklist.sh
+## Further Reading
+
+For practical Linux server administration and troubleshooting guidance, see the [Linux Server Management](https://iserversupport.com/linux-server-management/) guide.
