@@ -20,3 +20,6 @@ chmod +x incident-response-checklist.sh
 ## Further Reading
 
 For practical Linux server administration and troubleshooting guidance, see the [Linux Server Management](https://iserversupport.com/linux-server-management/) guide.
+## Further Reading
+
+For additional guidance on handling urgent Linux server incidents, see the [Emergency Server Support](https://iserversupport.com/emergency-server-support/) guide.
